@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|c:\\users\\aslap\\desktop\\estudos\\05 - desafios\\meus desafios\\challenge-001\\backend\\chat.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|c:\\users\\aslap\\desktop\\estudos\\05 - desafios\\meus desafios\\challenge-001\\backend\\chat.api\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|c:\\users\\aslap\\desktop\\estudos\\05 - desafios\\meus desafios\\challenge-001\\backend\\chat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|c:\\users\\aslap\\desktop\\estudos\\05 - desafios\\meus desafios\\challenge-001\\backend\\chat.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA61077-A2BB-45CB-A4C7-AD7BFCB6081F}|Chat.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T20:43:40.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T19:26:06.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:23:02.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Aslap\\Desktop\\Estudos\\05 - Desafios\\Meus Desafios\\challenge-001\\backend\\Chat.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:19:57.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
