@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão ajustada, com melhorias de formatação em Markdown, correções de português e um estilo mais bonito e organizado:
-
----
-
 # 🚀 Desafio CodeCon #03
 
 ## ⏱️ Regras
