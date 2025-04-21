@@ -9,6 +9,6 @@ export const getUserFromStorage = (): User | null => {
     return JSON.parse(source) as User;
 }
 
-export const setUserFromStorage = (id: string, username: string) => {
-    localStorage.setItem(KEY_STORAGE_APP, JSON.stringify({id, username}));
+export const setUserFromStorage = (id: string, username: string, avatarUrl: string) => {
+    localStorage.setItem(KEY_STORAGE_APP, JSON.stringify({id, username, avatarUrl}));
 }

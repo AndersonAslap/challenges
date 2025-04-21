@@ -2,6 +2,7 @@ import Message from './message';
 import useChat from '../hooks/use-chat';
 import { getUserFromStorage } from '@/lib/storage/storage';
 import { useEffect, useRef } from 'react';
+import Scroller from '@/components/app/Scroller';
 
 const ContentChat: React.FC = () => {
 
@@ -26,7 +27,7 @@ const ContentChat: React.FC = () => {
     }, [messages])
 
     return (
-        <div ref={chatRef} className="flex-1 overflow-y-auto p-2">
+        <Scroller ref={chatRef} className="flex-1 p-2">
             <div className='flex flex-col'>
                 {messages?.map((msg, index) => (
                     <Message 
@@ -37,7 +38,7 @@ const ContentChat: React.FC = () => {
                     />
                 ))}
             </div>
-        </div>
+        </Scroller>
     )
 }
 

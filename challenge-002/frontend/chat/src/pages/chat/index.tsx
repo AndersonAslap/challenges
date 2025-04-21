@@ -15,7 +15,7 @@ const Chat: React.FC = () => {
 
     useEffect(() => {
         const newConnection = new signalR.HubConnectionBuilder()
-          .withUrl('https://localhost:7288/ws-chat')
+          .withUrl('https://localhost:7098/ws-chat')
           .withAutomaticReconnect()
           .build();
     
@@ -43,7 +43,7 @@ const Chat: React.FC = () => {
 
     return (
         <div className="w-full flex h-full gap-1">
-            <div className="w-[25%] bg-amber-500 rounded-md p-2">
+            <div className="w-[25%] bg-zinc-900  rounded-l-md p-2 border-r-1">
                 <ListUsers />
             </div>
             <div className="w-[75%] rounded-md p-2 flex flex-col">

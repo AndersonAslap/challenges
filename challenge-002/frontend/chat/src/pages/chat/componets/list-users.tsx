@@ -1,4 +1,5 @@
 import { getUserFromStorage } from "@/lib/storage/storage";
+import UserItem from "./user";
 
 const ListUsers: React.FC = () => {
 
@@ -11,7 +12,7 @@ const ListUsers: React.FC = () => {
                 <div className="flex flex-col gap-1">
                     <div className="">
                         {users?.map((user) => (
-                            <div key={user?.id}>{user?.username}</div>
+                            <UserItem user={user!} key={user?.id} />
                         ))}
                     </div>
                 </div>

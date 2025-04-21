@@ -16,7 +16,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-zinc-950 flex justify-center items-center">
-      <main className="h-[70vh] w-[80vw] flex justify-center items-center bg-zinc-900 rounded-md">
+      <main className="h-[80vh] w-[70vw] flex justify-center items-center bg-zinc-900 rounded-md">
         {userLogged ? <ChatProvider><Chat /></ChatProvider> : <SignIn onUserLogged={setUserLogged} />}
       </main>
     </div>

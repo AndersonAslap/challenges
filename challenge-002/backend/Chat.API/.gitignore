@@ -1,0 +1,68 @@
+## Compilação
+bin/
+obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.VC.db
+
+## Logs
+*.log
+
+## Sistema
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+## Pacotes NuGet
+*.nupkg
+packages/
+# Se estiver usando PackageReference (recomendado), pode ignorar a pasta packages
+
+## Resultados de publicação
+publish/
+wwwroot/
+dist/
+out/
+
+## Teste e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+## Configurações locais
+*.env
+*.local.settings.json
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## VS Code
+.vscode/
+.history/
+
+## Rider
+.idea/
+*.sln.iml
+
+## Arquivos do ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Arquivos do JetBrains Rider
+.idea/
+.idea/*
+
+## Arquivos temporários
+*.tmp
+*.temp
+
+## Arquivos de lock
+project.lock.json
+project.assets.json
