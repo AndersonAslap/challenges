@@ -27,7 +27,7 @@ packages/
 publish/
 wwwroot/
 dist/
-out/
+
 
 ## Teste e cobertura
 TestResults/

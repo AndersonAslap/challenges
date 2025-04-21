@@ -1,0 +1,5 @@
+﻿namespace Chat.API.Application.Ports.Out;
+
+public class MessageRepository
+{
+}
